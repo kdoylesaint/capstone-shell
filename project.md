@@ -31,7 +31,7 @@ The second shell script should accept a starting record number and an ending rec
 
 ## Progress & Completion
 
-You should fork this project and work exclusively in the `shell/` folder.  We expect you to compose two scripts:
+You should fork this project.  We expect you to work on a copy of the database and produce two scripts:
 
 - `collect.sh` as described above.
 - `extract.sh` as described above.
