@@ -1,0 +1,1 @@
+touch exo-full.csv;head -n 2 exoplanets-1.csv>>exo-full.csv;tail -n +3 exoplanets-1.csv>>exo-full.csv;tail -n +3 exoplanets-2.csv>>exo-full.csv;tail -n +3 exoplanets-3.csv>>exo-full.csv;tail -n +3 exoplanets-4.csv>>exo-full.csv;tail -n +3 exoplanets-5.csv>>exo-full.csv;tail -n +3 exoplanets-6.csv>>exo-full.csv;tail -n +3 exoplanets-7.csv>>exo-full.csv
